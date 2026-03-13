@@ -1,1 +1,6 @@
+name: Welcome to my github repo
+on: 
+  issues:  
+    types: opened
+
 
